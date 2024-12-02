@@ -1,2 +1,3 @@
-# aoc2023
-Advent of Code 2023
+# advent-of-code
+Solutions for Advent of Code challenges
+
